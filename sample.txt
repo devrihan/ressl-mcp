@@ -1,0 +1,5 @@
+This is a sample file for the MCP server task.
+MCP stands for Model Context Protocol.
+We will use this file to test our search tool.
+The protocol allows AI to use external tools.
+End of file.
